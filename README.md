@@ -10,11 +10,14 @@ La solución está compuesta por dos proyectos:
 
 ## 📂 Estructura del Proyecto
 Sistema
+
 │── CapaLogica
-│ └── ValidacionLogin.cs
-│
+
+  -ValidacionLogin.cs
+
 └── TestUnitario
-└── Test1.cs
+
+   -Test1.cs
 
 ## Ejecución de los Tests
 
