@@ -3,7 +3,7 @@
 Este proyecto muestra un ejemplo sencillo de cómo implementar **tests unitarios en C#** utilizando **MSTest**.  
 La solución está compuesta por dos proyectos:
 
-- **CapaLogica** → Contiene la lógica del sistema (ejemplo: validación de login).  
+- **CapaLogica** → Contiene la lógica del sistema  
 - **TestUnitario** → Contiene las pruebas unitarias que validan el comportamiento de la lógica.
 
 ---
